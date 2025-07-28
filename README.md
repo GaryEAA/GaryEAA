@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Computer and Information Technology student, currently in the final stage of my degree. I am always looking to learn and improve, expanding my knowledge in both front-end and back-end development. I’ve had the opportunity to participate in various academic competitions, which have helped me grow and develop skills like teamwork and leadership. I am motivated to create something new, productive, innovative, and creative, and I am committed to continuing to learn and take on new challenges.
+I am a recent graduate in Computer and Information Technology. I am always looking to learn and improve, expanding my knowledge in both front-end and back-end development. I’ve had the opportunity to participate in various academic competitions, which have helped me grow and develop skills like teamwork and leadership. I am motivated to create something new, productive, innovative, and creative, and I am committed to continuing to learn and take on new challenges.
 - 🚀 I’m currently learning ...
   - <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   - <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
