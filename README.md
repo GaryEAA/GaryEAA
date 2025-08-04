@@ -12,7 +12,7 @@ I am a recent graduate in Computer and Information Technology. I am always looki
 - 🤝 I’m looking forward to collaborate on open source projects.
 - 💬 Ask me about anything, I am happy to help<br>
 - ✨ Outside of technology, I enjoy listening to music 🎧, exploring books on science and reflection 📚, and enriching my perspective with every discovery.
-- 📨 Reach out to me at: <a href="gary-18911@hotmail.com">gary-18911@hotmail.com</a>
+- 📨 Reach out to me at: <a href="garyeaa.dev@hotmail.com">garyeaa.dev@hotmail.com</a>
 
 ## My Skills Include  
 
